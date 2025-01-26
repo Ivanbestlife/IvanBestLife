@@ -9,7 +9,7 @@ One of my main passions is integration of AI and web applications. I specialize 
 Additionally, I have significant experience working with cloud platforms like Microsoft Azure, where I design and deploy robust, scalable, and secure cloud-based architectures. Whether it's integrating AI-powered APIs, building end-to-end applications, or leading cross-functional teams, I bring a results-driven approach to every project.
 
 If you’re looking for a dedicated developer who can seamlessly combine cutting-edge AI technologies with modern web development to deliver impactful solutions, let’s connect and bring your ideas to life!
-
+You can reach me at <img src="https://img.shields.io/badge/ivancaceresbl@gmail.com-yellow"/>
 ### Technologies Used
 <p align>
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript"/>
